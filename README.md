@@ -6,7 +6,7 @@ This project demonstrates a complete Azure-based data engineering solution, buil
 
 ## 🧱 Architecture Overview
 
-![Architecture](architecture-d
+Please look at the Data Architecture.png
 
 ---
 
@@ -30,7 +30,7 @@ This project demonstrates a complete Azure-based data engineering solution, buil
 
 ---
 
-## 🔄 Data Transformation (ADF + Databricks)
+## 🔄 Data Transformation (Databricks)
 
 - Databricks used for scalable and complex transformations.  
 - Transformed data is written to the **Silver** layer in Data Lake.
