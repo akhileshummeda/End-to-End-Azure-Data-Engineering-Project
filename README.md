@@ -13,7 +13,7 @@ Please look at the Data Architecture.png
 ## 🧰 Tools & Services Used
 
 - **Azure Data Factory (ADF)** – for data ingestion  
-- **Azure Data Lake Storage Gen2** – for layered storage (Raw & Silver)  
+- **Azure Data Lake Storage Gen2** – for layered storage (Raw & Silver & Gold)  
 - **Azure Databricks** – for scalable transformation  
 - **Azure Synapse Analytics** – for querying with external tables  
 - **Power BI** – for visualization  
