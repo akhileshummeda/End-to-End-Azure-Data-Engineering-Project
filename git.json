@@ -1,0 +1,52 @@
+[
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Categories.csv",
+        "Foldername_Parameter": "AdventureWorks_Product_Categories",
+        "Filename_Parameter": "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Calendar.csv",
+        "Foldername_Parameter": "AdventureWorks_Calendar",
+        "Filename_Parameter": "AdventureWorks_Calendar.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Customers.csv",
+        "Foldername_Parameter": "AdventureWorks_Customers",
+        "Filename_Parameter": "AdventureWorks_Customers.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "Foldername_Parameter": "Product_Subcategories",
+        "Filename_Parameter": "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Products.csv",
+        "Foldername_Parameter": "AdventureWorks_Products",
+        "Filename_Parameter": "AdventureWorks_Products.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Returns.csv",
+        "Foldername_Parameter": "AdventureWorks_Returns",
+        "Filename_Parameter": "AdventureWorks_Returns.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2015.csv",
+        "Foldername_Parameter": "AdventureWorks_Sales_2015",
+        "Filename_Parameter": "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2016.csv",
+        "Foldername_Parameter": "AdventureWorks_Sales_2016",
+        "Filename_Parameter": "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Sales_2017.csv",
+        "Foldername_Parameter": "AdventureWorks_Sales_2017",
+        "Filename_Parameter": "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "Relative_URL_Parameter": "anshlamba03/Adventure-Works-Data-Engineering-Project/main/Data/AdventureWorks_Territories.csv",
+        "Foldername_Parameter": "AdventureWorks_Territories",
+        "Filename_Parameter": "AdventureWorks_Territories.csv"
+    }
+]
